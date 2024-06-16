@@ -4,10 +4,13 @@ This is the official website of the challenge, the scores is public with the nam
 
 # Contributions
 We leverage unique ability of ViTs with different scale to construct a level-wise ViT.
+
 ![image](pipeline.pdf)
+
 The mainly contribution of our solution can be seen in the 'models' file
 
 # Preparation for our model
 
 You should follow the instruction of the official github repository as below.
+
 [Ego-Exo4D](https://github.com/EGO4D/ego-exo4d-egopose/tree/main/bodypose)
