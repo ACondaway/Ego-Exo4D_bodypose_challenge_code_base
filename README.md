@@ -6,7 +6,7 @@ This is the official website of the challenge, the scores is public with the nam
 # Contributions
 We leverage unique ability of ViTs with different scale to construct a level-wise ViT.
 
-![image](pipeline.pdf)
+![image](pipeline.png)
 
 The mainly contribution of our solution can be seen in the 'models' file
 
