@@ -3,6 +3,7 @@ This is the official website of the challenge, the scores is public with the nam
 - [Body Pose](https://eval.ai/web/challenges/challenge-page/2245/overview) 
 
 # Contributions
+We leverage unique ability of ViTs with different scale to construct a level-wise ViT.
 
 The mainly contribution of our solution can be seen in the 'models' file
 
